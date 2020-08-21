@@ -1,0 +1,146 @@
+{
+  "areasnames": [
+    "منطقة المنامة",
+    "منطقة السنابس",
+    "منطقة النعيم",
+    "منطقة الدراز",
+    "منطقة باربار",
+    "منطقة كرزكان",
+    "منطقة الكورة",
+    "منطقة بوري",
+    "منطقة ابو صيبع",
+    "منطقة السهلة"
+  ],
+  "منطقة السنابس": [
+    "حسينية آل عبدالحي",
+    "حسينية السنابس الشرقية",
+    "مأتم السنابس",
+    "حسينية بن خميس"
+  ],
+  "lمنطقة السنابس": [
+    "https://www.youtube.com/user/MatamMullaIsa/live",
+    "https://www.youtube.com/user/eSanabisLive/live",
+    "https://www.youtube.com/user/MatamALsanabis/live",
+    "https://www.youtube.com/user/binkhamisorg/live"
+  ],
+  "tمنطقة السنابس": [
+    "10:00 AM - 8:00 PM",
+    "12:45 PM - 9:00 PM",
+    "4:30 PM - 9:15 PM",
+    "5:00 PM - 9:45 PM"
+  ],
+"منطقة الدراز": [
+    "ماتم آل شهاب",
+    "ماتم انصار العدالة",
+"حسينية السيد علي"
+  ],
+"lمنطقة الدراز": [
+    "https://www.youtube.com/user/AAALshehab/live",
+    "https://www.youtube.com/channel/UCZeDL-vdIfXUvFRG-Km1EdQ/live",
+"https://www.youtube.com/user/HAlsayedAli/live"
+  ],
+"منطقة باربار": [
+    "مأتم الحاج مكي",
+    "حسينية الوداعي",
+    "مأتم الشويخ",
+    "حسينية المحافظة",
+    "مأتم باربار",
+    "(مأتم اإلمام الرضا (ع"
+  ],
+"lمنطقة باربار": [
+    "https://instagram.com/matam.haji.makki/live",
+    "https://www.instagram.com/matam_alwedaei/live",
+    "https://www.youtube.com/user/matamalshowaikh/live",
+    "https://www.youtube.com/channel/UCI1WqvlIezKoNIvLhGemFXQ/live",
+    "https://www.youtube.com/user/matambarbar/live",
+    "https://www.youtube.com/channel/UC2_t28UK3AIsrkG15heNBew/live"
+  ],
+  "منطقة كرزكان": [
+    "ماتم كرزكان"
+  ],
+"lمنطقة كرزكان": [
+    "https://www.youtube.com/c/MatamKarzakan/live"
+  ],
+   "منطقة الكورة": [
+    "ماتم جمعية الكورة الحسينية",
+    "ماتم شهداء الطف"
+  ],
+"lمنطقة الكورة": [
+    "https://www.youtube.com/c/jkhussainya/live",
+    "https://www.youtube.com/channel/UC2s18DsotxobI8oWRQM36UQ/live"
+  ],
+  "منطقة بوري": [
+    "(مأتم اإلمام علي (ع",
+    "(حسينية اإلمام الباقر (ع",
+    "(مأتم اإلمام الصادق (ع",
+    "مأتم الطويلة"
+  ],
+"lمنطقة بوري": [
+    "https://www.youtube.com/channel/UCvhZQFZ4bFOixtmPXbCjPZw/live",
+    "https://www.youtube.com/user/BaqerHussainia/live",
+    "https://www.youtube.com/user/matamalsadiq/live",
+    "https://www.youtube.com/user/altaweelanet/live"
+  ],
+  "منطقة ابو صيبع": [
+    "حسينية ابو صيبع",
+    "مأتم انصار الحق",
+    "ماتم أبو صيبع الشرقي"
+  ],
+"lمنطقة ابو صيبع": [
+    "https://www.youtube.com/c/MatamAbusaiba/live",
+    "https://www.youtube.com/c/%D9%85%D8%A3%D8%AA%D9%85%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D8%AD%D9%82/live",
+    "https://www.youtube.com/channel/UCp025xd8n3W51LSEFqteWEg/live"
+  ],
+  "منطقة السهلة": [
+    "مأتم السهلة الجنوبية"
+  ],
+"lمنطقة السهلة": [
+    "https://www.youtube.com/c/SehlaMatam/live"
+  ],
+  "منطقة المنامة": [
+    "مأتم السماكين",
+    "(حسينية الرسول األعظم (ص",
+    "مأتم مدن",
+    "حسينية القصاب",
+    "مأتم حسن محمود",
+    "مأتم اإلحسائيين",
+    "مأتم بن زبر",
+    "مأتم الحاج خلف",
+    "حسينية السيد حبيب",
+    "مأتم بن سلوم",
+    "مأتم الحاج عباس",
+    "مأتم الكليتي",
+    "حسينية بن أمان",
+    "(حسينية أهل البيت (ع",
+    "مأتم الحورة الحدادة"
+  ],
+"lمنطقة المنامة": [
+    "https://www.youtube.com/channel/UCL1DHSHa9ML4e4RDnKkzzuw/live",
+    "https://www.youtube.com/channel/UClw_wAdJW_eOVBrxLhUadaQ/live",
+    "https://www.youtube.com/user/MatamMadan/live",
+    "https://www.youtube.com/user/MATTAMALQASSAB/live",
+    "https://www.youtube.com/user/matamhasanmahmood/live",
+    "https://www.youtube.com/channel/UCVKDuUAiR20uOrlTfqdT8QA/live",
+    "https://www.youtube.com/user/matamzabar/live",
+    "https://youtube.com/mhajkhalaf/live",
+    "https://www.youtube.com/channel/UCQ3QiulacYW1kgwBG8O-7kg/live",
+    "https://www.youtube.com/user/binsalloom/live",
+    "https://www.youtube.com/channel/UC5GWvfVFksmT4_KhwXGoMcA/live",
+    "https://www.youtube.com/channel/UCxFl_NfT5Z4ubl51JelrZnQ/live",
+    "https://www.instagram.com/matam_binaman/live",
+    "https://www.youtube.com/channel/UCz3yboKS9tzXHUuQGzsPsIw/live",
+    "https://www.youtube.com/channel/UChxPE45ZPkp8XHMzOVsjBmg/live"
+  ],
+  "منطقة النعيم": [
+    "حسينية النعيم الغربي",
+    "مأتم النعيم الجنوبي",
+    "مأتم النعيم الوسطي",
+    "مأتم شباب النعيم"
+  ],
+"lمنطقة النعيم": [
+    "https://www.youtube.com/channel/UCHBXTV9W-y9__qhXXbQA5ug/live",
+    "https://www.youtube.com/user/MatamJanobi/live",
+    "https://www.youtube.com/channel/UC6-8zEURCaE0DCRzFUzgUEA/live",
+    "https://www.youtube.com/user/MatamShababAlNoaim/live"
+  ]
+}
