@@ -362,7 +362,7 @@
     "1:00 PM - 7:15 PM",
     "4:00 PM - 8:30 PM"
   ],
-  "منطقةبني جمرة": [
+  "منطقة بني جمرة": [
     "هيئة محبي الحسين (ع)",
     "مأتم الغرب",
     "الحسينية اإلثناعشرية",
@@ -370,7 +370,7 @@
     "مأتم الخضر (ع)",
     "مأتم الغسرة"
   ],
-  "lمنطقةبني جمرة": [
+  "lمنطقة بني جمرة": [
     "https://www.youtube.com/user/alhaiaaalhaiaa/live",
     "https://www.youtube.com/user/MatamalGharb/live",
     "https://www.youtube.com/user/maatam12/live",
@@ -378,7 +378,7 @@
     "https://www.youtube.com/user/matamkhoder/live",
     "https://www.youtube.com/channel/UCQzmFEDmTwQpLmXKVdvHu-Q/live"
   ],
-  "tمنطقةبني جمرة": [
+  "tمنطقة بني جمرة": [
     " 7:30 PM",
     "5:15 PM - 7;30 PM",
     "5:15 PM - 8:45 PM",
