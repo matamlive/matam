@@ -29,17 +29,17 @@
     "4:30 PM - 9:15 PM",
     "5:00 PM - 9:45 PM"
   ],
-"منطقة الدراز": [
+  "منطقة الدراز": [
     "حسينية المرزوق",
     "مأتم الدراز الكبير",
-"حسينية السيد علي الموسوي",
-"مأتم آل شهاب"
+    "حسينية السيد علي الموسوي",
+    "مأتم آل شهاب"
   ],
-"lمنطقة الدراز": [
+  "lمنطقة الدراز": [
     "https://www.youtube.com/channel/UCm5Gav7WtMBc-S79QnFJM8A/live",
     "https://www.youtube.com/channel/UCRTc60Q2HHaLIvj3cfAIUAg/live",
-"https://www.youtube.com/user/HAlsayedAli/live",
-"https://www.youtube.com/user/AAALshehab/live"
+    "https://www.youtube.com/user/HAlsayedAli/live",
+    "https://www.youtube.com/user/AAALshehab/live"
   ],
   "tمنطقة الدراز": [
     "1:00 PM - 8:30 PM",
@@ -47,8 +47,7 @@
     "1:00 PM - 9:25 PM",
     "1:15 PM - 9:00 PM"
   ],
-
-"منطقة باربار": [
+  "منطقة باربار": [
     "مأتم الحاج مكي",
     "حسينية الوداعي",
     "مأتم الشويخ",
@@ -56,7 +55,7 @@
     "مأتم باربار",
     "(مأتم اإلمام الرضا (ع"
   ],
-"lمنطقة باربار": [
+  "lمنطقة باربار": [
     "https://instagram.com/matam.haji.makki/live",
     "https://www.instagram.com/matam_alwedaei/live",
     "https://www.youtube.com/user/matamalshowaikh/live",
@@ -76,20 +75,19 @@
     "مأتم كرزكان الغربي",
     "ماتم كرزكان"
   ],
-"lمنطقة كرزكان": [
-  "https://www.youtube.com/channel/UC0jZCEKazoSwat3-jszv4OQ/live",
+  "lمنطقة كرزكان": [
+    "https://www.youtube.com/channel/UC0jZCEKazoSwat3-jszv4OQ/live",
     "https://www.youtube.com/c/MatamKarzakan/live"
   ],
   "tمنطقة كرزكان": [
     "10:30 AM - 7:45 PM",
     "10:15 AM - 8:30 PM"
   ],
-   "منطقة الكورة": [
+  "منطقة الكورة": [
     "مأتم الحاج حسن العريبي",
     "جمعية الكورة الحسينية"
-    
   ],
-"lمنطقة الكورة": [
+  "lمنطقة الكورة": [
     "https://www.youtube.com/user/almatm1/live",
     "https://www.youtube.com/user/jkhussainya/live"
   ],
@@ -103,13 +101,12 @@
     "(مأتم اإلمام الصادق (ع",
     "مأتم الطويلة"
   ],
-"lمنطقة بوري": [
+  "lمنطقة بوري": [
     "https://www.youtube.com/channel/UCvhZQFZ4bFOixtmPXbCjPZw/live",
     "https://www.youtube.com/user/BaqerHussainia/live",
     "https://www.youtube.com/user/matamalsadiq/live",
     "https://www.youtube.com/user/altaweelanet/live"
   ],
-  
   "tمنطقة بوري": [
     "12:30 PM - 7:30 PM",
     "10:15 AM - 8:45 PM",
@@ -121,17 +118,30 @@
     "مأتم انصار الحق",
     "ماتم أبو صيبع الشرقي"
   ],
-"lمنطقة ابو صيبع": [
+  "lمنطقة ابو صيبع": [
     "https://www.youtube.com/c/MatamAbusaiba/live",
     "https://www.youtube.com/c/%D9%85%D8%A3%D8%AA%D9%85%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D8%AD%D9%82/live",
     "https://www.youtube.com/channel/UCp025xd8n3W51LSEFqteWEg/live"
   ],
-  
+  "tمنطقة ابو صيبع": [
+    "12:30 PM - 8:00 PM",
+    "10:15 AM - 4:30 PM - 8:45 PM",
+    "لم يحدد بعد"
+  ],
   "منطقة السهلة": [
+    "مأتم الحاج فضل",
+    "مأتم السهلة الشمالية",
     "مأتم السهلة الجنوبية"
   ],
-"lمنطقة السهلة": [
+  "lمنطقة السهلة": [
+    "https://www.youtube.com/channel/UCb2yPAaSC8YzRDld1MY9PoQ/live",
+    "https://www.youtube.com/channel/UC-4kB9anSFtjVzTHZLx-eZA/live",
     "https://www.youtube.com/c/SehlaMatam/live"
+  ],
+  "tمنطقة السهلة": [
+    "1:00 PM - 8:00 PM",
+    "8:30 PM",
+    "9:00 PM"
   ],
   "منطقة المنامة": [
     "مأتم السماكين",
@@ -150,7 +160,7 @@
     "(حسينية أهل البيت (ع",
     "مأتم الحورة الحدادة"
   ],
-"lمنطقة المنامة": [
+  "lمنطقة المنامة": [
     "https://www.youtube.com/channel/UCL1DHSHa9ML4e4RDnKkzzuw/live",
     "https://www.youtube.com/channel/UClw_wAdJW_eOVBrxLhUadaQ/live",
     "https://www.youtube.com/user/MatamMadan/live",
@@ -190,7 +200,7 @@
     "مأتم النعيم الوسطي",
     "مأتم شباب النعيم"
   ],
-"lمنطقة النعيم": [
+  "lمنطقة النعيم": [
     "https://www.youtube.com/channel/UCHBXTV9W-y9__qhXXbQA5ug/live",
     "https://www.youtube.com/user/MatamJanobi/live",
     "https://www.youtube.com/channel/UC6-8zEURCaE0DCRzFUzgUEA/live",
