@@ -39,6 +39,17 @@
     "https://www.youtube.com/channel/UCZeDL-vdIfXUvFRG-Km1EdQ/live",
 "https://www.youtube.com/user/HAlsayedAli/live"
   ],
+  "tمنطقة الدراز": [
+    "1:00 PM - 8:30 PM",
+    "4:30 PM - 9:00 PM",
+    "1:00 PM - 9:25 PM",
+    "1:15 PM - 9:00 PM"
+  ],
+"منطقة الدراز": [
+    "ماتم آل شهاب",
+    "ماتم انصار العدالة",
+"حسينية السيد علي"
+  ],
 "منطقة باربار": [
     "مأتم الحاج مكي",
     "حسينية الوداعي",
