@@ -3,7 +3,10 @@
     "منطقة المنامة",
     "منطقة السنابس",
     "منطقة النعيم",
+    "منطقة عالي",
+    "منطقة سترة",
     "منطقة الدراز",
+    "منطقة المعامير",
     "منطقة باربار",
     "منطقة كرزكان",
     "منطقة الكورة",
@@ -211,5 +214,74 @@
     "1:00 PM - 9:00 PM",
     "10:10 AM - 9:15 PM",
     "5:00 PM - 10:00 PM"
+  ],
+  "منطقة عالي": [
+    "مأتم اإلمام علي )ع( السادة",
+    "حسينية أوالد الحاج عباس",
+    "مأتم الحاج حسن العالي",
+    "مأتم آل مروم الشمالي"
+  ],
+  "lمنطقة عالي": [
+    "https://www.youtube.com/user/matamalsadah/live",
+    "https://www.youtube.com/user/MAalabbas/live",
+    "https://www.youtube.com/user/AlaaliMatam/live",
+    "https://www.youtube.com/channel/UCAwYuAjdUD0ZExvgzf0ywRQ/live"
+  ],
+  "tمنطقة عالي": [
+    "1:00 PM - 7:45 PM",
+    "9:00 AM - 8:00 PM",
+    "5:00 PM - 8:45 PM",
+    "10:00 AM - 9:15 PM"
+  ],
+  "منطقة سترة": [
+    "مأتم دار الحسين (ع) -الخارجية",
+    "مأتم القرية القديم -القرية",
+    "مأتم حمد - واديان",
+    "مأتم الجفيري - واديان",
+    "حسينية المنتظر (ع) -واديان",
+    "حسينية الحاج مال عليالمرزوق - واديان",
+    "مأتم آل طوق - واديان",
+    "مأتم السادة - مهزة",
+    "مأتم العصفور - سفالة",
+    "مأتم الشباب - سفالة"
+  ],
+  "lمنطقة سترة": [
+    "https://www.youtube.com/c/daralhusssain/live",
+    "https://www.youtube.com/c/alqadeemORG/live",
+    "https://www.youtube.com/c/MatamHamad/live",
+    "https://www.youtube.com/user/aljuffairy/live",
+    "https://www.youtube.com/channel/UCtFt1lTYF4iIF7mtrwX7ysg/live",
+    "https://www.youtube.com/user/matamalmarzooq/live",
+    "https://www.youtube.com/c/matam_altooq/live",
+    "https://www.youtube.com/user/matamsada/live",
+    "https://instagram.com/matam.alasfoor/live",
+    "https://www.youtube.com/c/MatamAlshabab/live"
+  ],
+  "tمنطقة سترة": [
+    "1:00 PM - 7:30 PM",
+    "4:30 PM - 8:00 PM",
+    "12:30 PM",
+    "10:00 AM - 8:30 PM",
+    "10:30 AM - 8:30 PM",
+    "10:15 AM - 8:00 PM",
+    "1:00 PM - 9:00 PM",
+    "12:30 PM - 8:00 PM",
+    "8:00 PM",
+    "10:00 AM"
+  ],
+  "منطقة المعامير": [
+    "مأتم أم البنين (ع) للسادة",
+    "(مأتم سيد الشهداء (ع",
+    "(مأتم فاطمة الزهراء (ع"
+  ],
+  "lمنطقة المعامير": [
+    "https://www.youtube.com/channel/UCRGYp2M0lxkniIRqjAIAVNw/live",
+    "https://www.youtube.com/channel/UCZBtiesL-SPou07i2NzKAXg/live",
+    "https://www.youtube.com/channel/UCfW8irPDswUt/live"
+  ],
+  "tمنطقة المعامير": [
+    "4:15 PM - 7:45 PM",
+    "5:15 PM - 8:45 PM",
+    "10:00 AM - 9:00 PM"
   ]
 }
