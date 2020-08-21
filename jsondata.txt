@@ -6,10 +6,14 @@
     "منطقة النعيم",
     "منطقة عالي",
     "منطقة سترة",
+    "منطقة المالكية",
+    "منطقة داركليب",
     "منطقة الديه",
+    "منطقة كرانة",
     "منطقة الدراز",
     "منطقة المعامير",
     "منطقة باربار",
+    "منطقة بني جمرة",
     "منطقة كرزكان",
     "منطقة الكورة",
     "منطقة بوري",
@@ -288,9 +292,9 @@
   ],
   "منطقة جدحفص": [
     "مأتم سالمة",
-    "حسينية الحاجعبدالحسين بن جعفر",
-    "حسينية الشيخ عبدالحسنآل طفل",
-    "حسينية الشيخ حسن زينالدين",
+    "حسينية الحاج عبدالحسين بن جعفر",
+    "حسينية الشيخ عبدالحسن آل طفل",
+    "حسينية الشيخ حسن زين الدين",
     "مأتم الشاري",
     "مأتم الكامل",
     "مسجد المشرف",
@@ -333,5 +337,77 @@
     "7:15 PM",
     "1:00 PM - 7:45 PM",
     "12:30 PM - 9:00 PM"
+  ],
+  "منطقة كرانة": [
+    "مأتم كرانة الكندي",
+    "مأتم كرانة الشمالي",
+    "مأتم كرانة الوسطي",
+    "مأتم المحموديات"
+  ],
+  "lمنطقة كرانة": [
+    "https://www.youtube.com/channel/UChkRFqX0zQq6578eaCdvY_g/live",
+    "https://www.youtube.com/user/almatamalshamali/live",
+    "https://www.youtube.com/user/malwasti/live",
+    "https://www.youtube.com/user/almhmodyat/live"
+  ],
+  "tمنطقة كرانة": [
+    "10:00 AM -7:20 PM",
+    "4:30 PM - 7:45 PM",
+    "1:00 PM - 7:15 PM",
+    "4:00 PM - 8:30 PM"
+  ],
+  "منطقةبني جمرة": [
+    "هيئة محبي الحسين (ع)",
+    "مأتم الغرب",
+    "الحسينية اإلثناعشرية",
+    "الحسينية الفاطمية",
+    "مأتم الخضر (ع)",
+    "مأتم الغسرة"
+  ],
+  "lمنطقةبني جمرة": [
+    "https://www.youtube.com/user/alhaiaaalhaiaa/live",
+    "https://www.youtube.com/user/MatamalGharb/live",
+    "https://www.youtube.com/user/maatam12/live",
+    "https://www.youtube.com/channel/UCgRa9agJKH2qSHkZNvazjgQ/live",
+    "https://www.youtube.com/user/matamkhoder/live",
+    "https://www.youtube.com/channel/UCQzmFEDmTwQpLmXKVdvHu-Q/live"
+  ],
+  "tمنطقةبني جمرة": [
+    " 7:30 PM",
+    "5:15 PM - 7;30 PM",
+    "5:15 PM - 8:45 PM",
+    "9:30 AM - 8:30 PM",
+    "10:00 AM - 9:15 PM",
+    "9:15 PM"
+  ],
+  "منطقة المالكية": [
+    "مأتم السادة",
+    "مأتم بن حسان",
+    "مأتم اإلمام الرضا )ع("
+  ],
+  "lمنطقة المالكية": [
+    "https://www.youtube.com/channel/UCnKWQMOtvxTe34RQ7mjyw9g/live",
+    "https://www.youtube.com/channel/UCvXkkTwBKVFKS0ejKxVnJHw/live",
+    "https://www.youtube.com/user/MatamAlReda/live"
+  ],
+  "tمنطقة المالكية": [
+    "10:00 AM - 8:15 PM",
+    "4:00 AM - 8:15 PM ",
+    "9;00 AM - 8;30 PM"
+  ],
+  "منطقة داركليب": [
+    "مأتم الجواونة",
+    "مأتم الجبو",
+    "مأتم اإلمام الصادق (ع)"
+  ],
+  "lمنطقة داركليب": [
+    "https://www.youtube.com/channel/UCUoe9dIDrEiYF/live",
+    "https://www.youtube.com/c/matamaljbour/live",
+    "https://www.youtube.com/user/matamalsadiq/live"
+  ],
+  "tمنطقة داركليب": [
+    "4:45 PM - 7:30 PM",
+    "10:00 AM - 8:30 PM",
+    "12;45 PM - 9;15 PM"
   ]
 }
