@@ -6,6 +6,7 @@
     "منطقة النعيم",
     "منطقة السنابس",
     "منطقة جدحفص",
+     "منطقة البلاد القديم",
     "منطقة الديه",
     "منطقة جبلة حبشي",
     "منطقة السهلة",
@@ -464,5 +465,41 @@
   "tمنطقة مدينة حمد": [
     "8:00 PM",
     "7:00 PM"
+  ],
+  "منطقة البلاد القديم": [
+    "مأتم أنصار الحق",
+    "مأتم الحاج علي عبدهللا خميس",
+    "مأتم أبوخفير (السيدعبدالله)",
+    "مأتم الحاج عباس",
+    "مسجد ناصر الدين ",
+    "(مأتم الدارة (المدحوب",
+    "مسجد السيد مصطفى",
+    "مأتم العويناتي",
+    "(ع)مأتم أنصار الحسين ",
+    "مأتم الزنج",
+    "مأتم الحاج عباس"
+  ],
+  "lمنطقة البلاد القديم": [
+    "https://www.youtube.com/channel/UCGhD_9ZOznyDTJy6pmQ8jxw/live",
+    "https://www.youtube.com/user/MatamHajAli/live",
+    "https://www.youtube.com/user/ya1shaheed/live",
+    "https://www.instagram.com/haji_abbas/live",
+    "https://www.instagram.com/nasseraldenmosq/live",
+    "https://www.youtube.com/channel/UCboO_YcTbr91WReXGZBBJ9Q/live",
+    "https://www.instagram.com/matamalowinati/live",
+    "https://www.youtube.com/channel/UC4G3WnGF6fZzw9PzSYAM5rw/live",
+    "https://www.youtube.com/user/matamalzinj/live"
+  ],
+  "tمنطقة البلاد القديم": [
+    "1:15 PM - 8:00 PM",
+    "7:30 PM",
+    "8:15 AM - 7:40 PM",
+    "7:00 PM",
+    "12:15 PM - 8:00 PM",
+    "1:00 PM",
+    "9:30 PM",
+    "9:00 PM",
+    "4:45 PM - 9:30 PM",
+    "12:30 PM - 8:45 PM"
   ]
 }
