@@ -69,8 +69,8 @@
     "(مأتم اإلمام الرضا (ع"
   ],
   "lمنطقة باربار": [
-    "https://instagram.com/matam.haji.makki/live",
-    "https://www.instagram.com/matam_alwedaei/live",
+    "https://www.youtube.com/c/%D9%85%D8%A3%D8%AA%D9%85%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%D9%85%D9%83%D9%8A_%D8%A8%D8%A7%D8%B1%D8%A8%D8%A7%D8%B1/featured/live",
+    "https://www.youtube.com/channel/UC3jHCw4L5xDmjuWweQ26fmg/featured/live",
     "https://www.youtube.com/user/matamalshowaikh/live",
     "https://www.youtube.com/channel/UCI1WqvlIezKoNIvLhGemFXQ/live",
     "https://www.youtube.com/user/matambarbar/live",
