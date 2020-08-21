@@ -2,9 +2,11 @@
   "areasnames": [
     "منطقة المنامة",
     "منطقة السنابس",
+    "منطقة جدحفص",
     "منطقة النعيم",
     "منطقة عالي",
     "منطقة سترة",
+    "منطقة الديه",
     "منطقة الدراز",
     "منطقة المعامير",
     "منطقة باربار",
@@ -239,7 +241,7 @@
     "مأتم حمد - واديان",
     "مأتم الجفيري - واديان",
     "حسينية المنتظر (ع) -واديان",
-    "حسينية الحاج مال عليالمرزوق - واديان",
+    "حسينية الحاج مال علي المرزوق - واديان",
     "مأتم آل طوق - واديان",
     "مأتم السادة - مهزة",
     "مأتم العصفور - سفالة",
@@ -283,5 +285,53 @@
     "4:15 PM - 7:45 PM",
     "5:15 PM - 8:45 PM",
     "10:00 AM - 9:00 PM"
+  ],
+  "منطقة جدحفص": [
+    "مأتم سالمة",
+    "حسينية الحاجعبدالحسين بن جعفر",
+    "حسينية الشيخ عبدالحسنآل طفل",
+    "حسينية الشيخ حسن زينالدين",
+    "مأتم الشاري",
+    "مأتم الكامل",
+    "مسجد المشرف",
+    "مأتم عين الدار",
+    "(مأتم قائم آل بيت محمد (عج"
+  ],
+  "lمنطقة جدحفص": [
+    "https://www.instagram.com/matamsalama/live",
+    "https://www.youtube.com/channel/UConftj0bhEyEgz1VfaOOQVw/live",
+    "https://www.youtube.com/channel/UC670pmDSlPinWPJF9Z8JV-w/live",
+    "https://www.instagram.com/maatam_zeen/live",
+    "https://www.youtube.com/user/almousanet/live",
+    "https://www.youtube.com/user/MatamAlKamel/live",
+    "https://www.youtube.com/channel/UCqxFz0SmIrQlDKkR65ne04A/live",
+    "https://www.youtube.com/channel/UCC5ahdbGLNDksGLZqRkWXZQ/live",
+    "https://www.youtube.com/channel/UC0vmzkCje7RrsWoNOUGw9gg/live"
+  ],
+  "tمنطقة جدحفص": [
+    "1:00 PM - 7:30 PM",
+    "4:30 PM - 8:00 PM",
+    "12:30 PM",
+    "10:00 AM - 8:30 PM",
+    "10:30 AM - 8:30 PM",
+    "10:15 AM - 8:00 PM",
+    "1:00 PM - 9:00 PM",
+    "12:30 PM - 8:00 PM",
+    "8:00 PM"
+  ],
+  "منطقة الديه": [
+    "مأتم الجعفرية",
+    "مجلس الدعيسي",
+    "مأتم أهالي الديه"
+  ],
+  "lمنطقة الديه": [
+    "https://www.youtube.com/channel/UCBjUMd_LvZveqQFHAltg9mw/live",
+    "https://www.youtube.com/channel/UCyXvA9O3PH-y_TDC4D9oZdg/live",
+    "https://www.youtube.com/user/matamaldaih/live"
+  ],
+  "tمنطقة الديه": [
+    "7:15 PM",
+    "1:00 PM - 7:45 PM",
+    "12:30 PM - 9:00 PM"
   ]
 }
