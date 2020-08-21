@@ -252,7 +252,8 @@
     "مأتم آل طوق - واديان",
     "مأتم السادة - مهزة",
     "مأتم العصفور - سفالة",
-    "مأتم الشباب - سفالة"
+    "مأتم الشباب - سفالة",
+    "مأتم السبط الشهيد"
   ],
   "lمنطقة سترة": [
     "https://www.youtube.com/c/daralhusssain/live",
@@ -264,7 +265,8 @@
     "https://www.youtube.com/c/matam_altooq/live",
     "https://www.youtube.com/user/matamsada/live",
     "https://instagram.com/matam.alasfoor/live",
-    "https://www.youtube.com/c/MatamAlshabab/live"
+    "https://www.youtube.com/c/MatamAlshabab/live",
+    "https://www.youtube.com/c/AlsybtAlShaheed/live"
   ],
   "tمنطقة سترة": [
     "1:00 PM - 7:30 PM",
@@ -276,7 +278,8 @@
     "1:00 PM - 9:00 PM",
     "12:30 PM - 8:00 PM",
     "8:00 PM",
-    "10:00 AM"
+    "10:00 AM",
+    "8:30 PM"
   ],
   "منطقة المعامير": [
     "مأتم أم البنين (ع) للسادة",
@@ -386,7 +389,7 @@
   "منطقة المالكية": [
     "مأتم السادة",
     "مأتم بن حسان",
-    "مأتم اإلمام الرضا )ع("
+    "(ع)مأتم اإلمام الرضا "
   ],
   "lمنطقة المالكية": [
     "https://www.youtube.com/channel/UCnKWQMOtvxTe34RQ7mjyw9g/live",
